@@ -1,0 +1,15 @@
+.jumbotron{
+    background-color: rgb(41, 130, 240);
+}
+.search-form{
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 20px;
+}
+
+.articles-form{
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 5px 10px;
+    margin-top: 20px;
+}
